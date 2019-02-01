@@ -1,0 +1,46 @@
+# Template: Weekly Activity Reports
+MM-DD-YY
+# [Name]'s Weekly Activity Report - Friday, Month Day, Year
+### Legend
+ - [Objective](#objective)
+ - [Work I Did](#work-i-did)
+ - [Meetings](#meetings)
+ - [Summary](#summary)
+ - [Follow up](#follow-up)
+
+### Big Three
+
+- I was able to make a docker file without following a tutorial with successful completion
+
+- I was able to make a compose docker file without following a tutorial with successful completion
+
+- I understand now how the docker file is a container that hold files od many types which could be used altogether and anyone that is runnning those
+files on any machine will be able to run those files. There is no need to have specified machines or specified languages. We can hold anything 
+in the dockerfile and have the capabilities to compile them 
+
+### Objective
+
+Getting comfortable with dockers
+
+### Work I Did
+
+I read many documents, I made four docker related files I also studied 5 tutorials
+### Work I Did
+
+Describe the specific steps you took to achieve your goals for the week
+
+
+### Meetings
+  - Friday meeting
+### Summary/Remarks:
+
+- I really learned about Dockers
+
+- compose the files, docker files, I attempted another tutorial but I was not successful
+
+- I read documents, I went over errors from stackoverflow, used youtube for video tutorials
+
+
+### Follow up
+
+- Hopefully I can learn more
